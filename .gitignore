@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.env__
+*.env
+
+# Chroma / bases de datos locales
+chroma/
+*.chroma
+*.db
+
+# Logs y temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Extras
+extras/
