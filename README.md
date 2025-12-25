@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # MCP Brain 🧠
 
 Asistente híbrido inteligente con:
@@ -51,9 +49,6 @@ graph TD
     style M fill:#e0ffff,stroke:#333,color:#000
     style Fuentes fill:#f8f8f8,stroke:#aaa,stroke-dasharray: 5 5,color:#000
 
-
-    ## Flujo
-
 sequenceDiagram
     autonumber
     participant U as Usuario
@@ -104,11 +99,3 @@ sequenceDiagram
     A-->>G: Respuesta final procesada
     G-->>U: Muestra en interfaz Gradio
     end
-=======
-# ai_projects
-Aplicaciones Modernas para IA
->>>>>>> 48f75e93a38fbd7111b75637987678b3f287ae4d
-=======
-# ai_projects
-Aplicaciones Modernas para IA
->>>>>>> 48f75e93a38fbd7111b75637987678b3f287ae4d
