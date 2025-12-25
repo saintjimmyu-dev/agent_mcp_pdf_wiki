@@ -54,7 +54,6 @@ graph TD
 
     ## Flujo
 
-```mermaid
 sequenceDiagram
     autonumber
     participant U as Usuario
